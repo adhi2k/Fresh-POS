@@ -14,6 +14,11 @@ Perfect for small retail shops, flour mills, and quick-service businesses.
 * **⚙️ Custom Invoicing:** Set custom invoice prefixes (e.g., `INV-0001`) and auto-incrementing bill numbers.
 * **📱 Mobile Responsive:** Clean, touch-friendly UI that works flawlessly on desktop monitors, tablets, and smartphones.
 
+## 📸 Screenshots
+
+Add screenshots of your UI here
+
+
 ## 🛠️ Tech Stack
 
 * **Frontend:** HTML5, CSS3, Vanilla JavaScript
