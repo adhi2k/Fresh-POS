@@ -38,7 +38,7 @@ To run this POS system yourself, you need to host the frontend files and connect
 ### Step 1: Host the Frontend
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/fresh-pos.git](https://github.com/yourusername/fresh-pos.git)
+   git clone https://github.com/adhi2k/Fresh-POS.git
    ```
 2. You can run it locally using Live Server, or host it for free using GitHub Pages, Vercel, or Netlify.
 
