@@ -4,7 +4,7 @@
 const STORAGE_KEYS = { PRODUCTS: 'pos_products', SALES: 'pos_sales', SETTINGS: 'pos_settings' };
 
 // 🚨 PASTE YOUR GOOGLE SCRIPT URL HERE:
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbz4vCtRZu3IY2H7A47sz_fmscOkrAAT79H1H9JT1bib9ixrf3sK30AzSzQOL0d50J8o/exec';
+const GOOGLE_SCRIPT_URL = 'PASTE YOUR GOOGLE SCRIPT URL HERE:';
 
 function initializeData() {
     if (!localStorage.getItem(STORAGE_KEYS.PRODUCTS)) localStorage.setItem(STORAGE_KEYS.PRODUCTS, JSON.stringify([]));
